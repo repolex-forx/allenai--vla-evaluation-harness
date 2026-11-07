@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/vla-evaluation-harness/commit/cc260841a0a32be778ec8604504de4bd5e663a5f",
       "git:hexsha": "cc260841a0a32be778ec8604504de4bd5e663a5f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T19:16:07.887605+00:00"
     },
     {
       "@id": "https://repolex.ai/r/allenai/vla-evaluation-harness/commit/5ea6e5146c4f6fcf89ae8bbc5c5aadc2ba28fd08",
