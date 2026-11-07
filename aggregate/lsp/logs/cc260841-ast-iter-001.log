@@ -1,0 +1,7 @@
+[2026-11-07T19:10:46Z] === AST ITERATION 1 START | repo=allenai/vla-evaluation-harness sha=cc260841 ===
+[2026-11-07T19:10:46Z] [iter=1] PHASE START: ast repo=allenai/vla-evaluation-harness sha=cc260841
+[2026-11-07T19:10:46Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T19:14:29Z] [iter=1] AST chunks built count=1 triples=1976816
+[2026-11-07T19:14:29Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/cc260841a0a32be778ec8604504de4bd5e663a5f/.complete
+[2026-11-07T19:14:29Z] [iter=1] PHASE END: ast elapsed_s=222 elapsed_min=3.7
+[2026-11-07T19:14:29Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/vla-evaluation-harness/commit/cc260841a0a32be778ec8604504de4bd5e663a5f",
       "git:hexsha": "cc260841a0a32be778ec8604504de4bd5e663a5f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/allenai/vla-evaluation-harness/commit/5ea6e5146c4f6fcf89ae8bbc5c5aadc2ba28fd08",
