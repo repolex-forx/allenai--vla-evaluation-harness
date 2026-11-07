@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "vla-evaluation-harness",
+  "versions": [
+    {
+      "commit": "cc260841a0a32be778ec8604504de4bd5e663a5f",
+      "tag": "",
+      "parsed_at": "2026-11-07T19:16:07.888348+00:00"
+    }
+  ]
+}
